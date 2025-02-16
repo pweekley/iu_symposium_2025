@@ -4,9 +4,9 @@ author,Author,
 location,Place of Publication,
 publisher,Publisher,
 date,Date,
+institution,Holding Institution,
 description,Description,
 subject,Subjects,true
-location,Location
 latitude,Latitude
 longitude,Longitude
 source,Source
