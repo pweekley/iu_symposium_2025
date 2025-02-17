@@ -4,4 +4,4 @@ layout: about
 permalink: /bibliography.html
 ---
 
-{% include feature/pdf.html objectid="https://github.com/pweekley/iu_symposium_2025/blob/main/objects/iusymposium2025_bibliography.pdf" width="50" %} 
+{% include feature/pdf.html objectid="pwiu2025_10" width="50" %}
