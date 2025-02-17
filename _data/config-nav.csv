@@ -2,4 +2,6 @@ display_name,stub,dropdown_parent
 Home,/,
 Primary Sources,/browse.html
 Bibliography,/bibliography.html,
-About,/about.html
+About,,
+Abstract,/abstract.html,About
+Biography,/bio.html,About
