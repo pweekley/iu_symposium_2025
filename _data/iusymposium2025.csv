@@ -1,2 +1,11 @@
-objectid,filename,format,language,title,location,publisher,date
-pwiu2025_01,https://digital.onb.ac.at/RepViewer/viewer.faces?doc=DTL_2315234&order=1&view=SINGLE,record,ita,Sei Sonate Da Clavi-Cembalo: [Hob XVI: 21 - 26],Vienna,Kurzböck,1774
+objectid,filename,format,language,title,location,publisher,date,author,institution
+pwiu2025_01,https://digital.onb.ac.at/RepViewer/viewer.faces?doc=DTL_2315234&order=1&view=SINGLE,record,ita,Sei Sonate Da Clavi-Cembalo: [Hob XVI: 21 - 26],Vienna,Joseph von Kurzböck,1774,"Haydn, Joseph, 1732-1809","Wien, Österreichische Nationalbibliothek"
+pwiu2025_02,https://archive.org/details/beschreibungdesh00wein/mode/2up,record,ger,Beschreibung des Hochfürstlichen Schlosses Esterháss im Königreiche Ungern,Pressburg,Anton Löwe,1784,,"Los Angeles, Getty Research Institute"
+pwiu2025_03,"https://www.digitale-sammlungen.de/de/view/bsb10611954?q=%28Ephemeriden+der+Menschheit+oder+Bibliothek+der+Sittenlehre,+der+Politik+und+der+Gesetzgebung.+%29&page=592,593",record,ger,"Ephemeriden der Menschheit oder Bibliothek der Sittenlehre, der Politik und der Gesetzgebung (1781, 7/12)",Leipzig,Weygand,1781,,"München, Bayerische Staatsbibliothek"
+pwiu2025_04,https://digital.onb.ac.at/RepViewer/viewer.faces?doc=DTL_5029297&order=1&view=SINGLE,record,ger,Historisch-kritische Theaterchronik von Wien: nebst einigen Nachrichten von erbländischen und fremden Theatern,Vienna,Bader,1774,"Moll, Christian Hieronymus, 1750-1824","Wien, Österreichische Nationalbibliothek"
+pwiu2025_05,https://archive.org/details/noticesurjosephh00fram,record,fre,Notice sur Joseph Haydn,Paris,Barba,1810,"Framery, Nicolas Etienne, 1745-1810","London, Ontario, Western University Libraries"
+pwiu2025_06,https://anno.onb.ac.at/cgi-content/anno?aid=wrz&datum=17630129&zoom=10,record,ger,"Wienerisches Diarium, 29. Januar 1763",Vienna,,1763/01/29,,"Wien, Österreichische Nationalbibliothek"
+pwiu2025_07,https://anno.onb.ac.at/cgi-content/anno?aid=wrz&datum=17700926&zoom=10,record,ger,"Wienerisches Diarium, 26. September 1770",Vienna,,1770/09/26,,"Wien, Österreichische Nationalbibliothek"
+pwiu2025_08,"https://www.digitale-sammlungen.de/en/view/bsb10528004?page=96,97",record,ger,"""J.A.P. Schulz,"" Allgemeine musikalische Zeitung. 3. 1800/01",Leipzig,Breitkopf und Härtel,1801/12/10,"Reichardt, Johann Friedrich, 1752-1814","München, Bayerische Staatsbibliothek"
+pwiu2025_09,https://www.difmoe.eu/view/uuid:a2b795f0-d938-11de-9d65-000d606f5dc6?page=uuid:5bdb9b70-d930-11de-bc61-000d606f5dc6,record,ger,"Preßburger Zeitung, 29. September 1770",Pressburg,Landerer,1770/09/29,,München: Digitales Forum Mittel- und Osteuropa
+pwiu2025_10,iusymposium2025_bibliography.pdf,application/pdf,eng,Bibliography,,,,"Weekley, Peyson, 1999-",
